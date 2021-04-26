@@ -19,7 +19,7 @@ Web 前後端開發經驗六年，一開始是後端工程師，五年前決定�
 
 待過幾間新創公司常處理從 0 到 1 的環境建置，曾用 Jenkins、Gitlab CI 建立持續整合環境來降低錯誤發生，使用測試工具 Jest 和 Cypress 來協助開發，商業相關則透過導入 Google Analytics、短網址工具協助網站流量分析。
 
-自學過程中覺得知識可以更淺顯的表達，於是開始了寫部落格的旅程，[前端三分鐘](https://linyencheng.github.io/)。
+自學過程中覺得知識可以更淺顯的表達，於是開始了寫部落格的旅程，[前端三分鐘](https://linyencheng.github.io/?utm_source=github&utm_medium=readme&utm_campaign=github_profile)。
 
 工作幾年下來，還是想達到的目標:
 
