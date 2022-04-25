@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## 嗨!!! 我是林彥成，前端工程師
 
-Web 前後端開發經驗六年，一開始是後端工程師，五年前決定和瀏覽器一起發展而進入前端工程領域，專注在 React.js、 Next.js 相關技術及應用上，後端上使用 Node.js、Socket.IO 做 API 開發和即時資料交換。
+嗨, 我是林彥成，前端工程師，網站前後端開發經驗七年。
 
-待過幾間新創公司常處理從 0 到 1 的環境建置，曾用 Jenkins、Gitlab CI 建立持續整合環境來降低錯誤發生，使用測試工具 Jest 和 Cypress 來協助開發，商業相關則透過導入 Google Analytics、短網址工具協助網站流量分析。
+起初是後端工程師，目前專注在 React.js 相關技術及應用上，後端能使用 Node.js、Socket.IO 做 API 開發和即時資料交換。
 
-自學過程中覺得知識可以更淺顯的表達，於是開始了寫部落格的旅程，[前端三分鐘](https://linyencheng.github.io/?utm_source=github&utm_medium=readme&utm_campaign=github_profile)。
+學習過程中，覺得知識可以被更淺顯的表達，於是就開始了寫部落格的旅程，[前端三分鐘](https://linyencheng.github.io/?utm_source=github&utm_medium=readme&utm_campaign=github_profile)。
 
 工作幾年下來，還是想達到的目標:
 
