@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 林彥成 | 前端三分鐘
 
-嗨, 我是彥成，前端工程師，網站前後端開發經驗七年。
+嗨, 我是彥成，前端工程師，網站前後端開發經驗八年。
 
 起初是後端工程師，目前專注在 React.js 相關技術及應用上，後端能使用 Node.js、Socket.IO 做 API 開發和即時資料交換。
 
