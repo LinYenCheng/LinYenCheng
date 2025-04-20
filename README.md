@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 - 💡 一對一家教或教練（教學風格強調陪伴與理解）
 
 📫 Email: [linyencheng.tw@gmail.com](mailto:linyencheng.tw@gmail.com)  
-🔗 [Facebook 粉專](https://www.facebook.com/linyencheng.3mins)  
+🔗 [Facebook 前端三分鐘](https://www.facebook.com/linyencheng.tw)  
+🔗 [Instagram 前端三分鐘](https://www.instagram.com/linyencheng.3mins)
 🔗 [LinkedIn](https://www.linkedin.com/in/linyencheng/)
 
 ### 曾受邀活動／講座
