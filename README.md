@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 💡 一對一家教或教練（教學風格強調陪伴與理解）
 
 📫 Email: [linyencheng.tw@gmail.com](mailto:linyencheng.tw@gmail.com)  
-🔗 [Facebook](https://www.facebook.com/yencheng.tw)  
+🔗 [Facebook 粉專](https://www.facebook.com/linyencheng.3mins)  
 🔗 [LinkedIn](https://www.linkedin.com/in/linyencheng/)
 
 ### 曾受邀活動／講座
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 - 🎤 [104 人力銀行邀請｜台積電資深軟體工程師講座](https://meet.104.com.tw/event/418d1f95-93dd-488d-814a-835ad2158a33)  
   👉 解密台積電面試問題與工程師的工作日常
 - 🎙️ [Open Career Podcast｜面試前端讓你知己知彼的10個問題(上集)](https://open.spotify.com/episode/2ZoETkf4dL6P4ipXKmqcI2)
-  👉 軟體工程師不只是服務業也是良心事業? ft. 資深前端工程師 彥成
+  👉 軟體工程師不只是服務業也是良心事業?
 - 🎙️ [Open Career Podcast｜面試前端讓你知己知彼的10個問題(下集)](https://open.spotify.com/episode/2VtekkwgFBcxTgg4alCIUE)
-  👉 加班式開發跟歷史遺跡你各位選哪一種? ft.資深前端工程師 彥成
+  👉 加班式開發跟歷史遺跡你各位選哪一種?
 ---
 
 
