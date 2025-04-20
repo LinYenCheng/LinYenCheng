@@ -15,25 +15,52 @@ Here are some ideas to get you started:
 
 # 林彥成 | 前端三分鐘
 
-嗨, 我是彥成，前端工程師，網站前後端開發經驗九年。
+嗨，我是林彥成，10 年網站開發經驗的前端工程師。
 
-起初是後端工程師，目前專注在 React.js 相關技術及應用上，後端能使用 Node.js、Socket.IO 做 API 開發和即時資料交換。
+現專注於 React.js 技術與應用，熟悉從前端到後端的開發流程，包含 Node.js 與 Socket.IO 的 API 開發與即時資料交換。
 
-學習過程中，覺得知識可以被更淺顯的表達，於是就開始了寫部落格的旅程，[前端三分鐘](https://linyencheng.github.io/?utm_source=github&utm_medium=readme&utm_campaign=github_profile)。
+起初是後端工程師，後來因為對「使用者經驗」的興趣與追求，走進前端的世界，也因為喜歡教學與分享，把學習的心得記錄成部落格，成立了【前端三分鐘】這個個人技術筆記與分享平台。
 
-工作幾年下來，還是想達到的目標:
+---
 
-> 想成為能在世界各地工作的人，選擇投入高移動性的網路產業 <br>
-> 想用合理的工時工作，認為讀書和工作只是幫助我們更接近喜歡的自己 <br>
-> 想成為一個對社會有好的影響的人，最喜歡的一句話是聰明是天賦，而善良是種選擇
+## 技術專長
 
-### 技能樹
+- **前端開發**：React.js 生態系（Next.js、Redux、TailwindCSS 等）
+- **後端服務**：Node.js、Socket.IO
+- **自動化測試**：Cypress、JMeter
+- **SEO 與分析**：Google Analytics、Search Console
+- **CI/CD**：Jenkins、Gitlab CI
+- **雲端與伺服器**：Linux、AWS、Azure
 
-- 前端: React.js 相關技術及應用
-- 後端: API 開發 (Java Jersey、Node.js)、即時資料交換 (Socket.IO)
-- 伺服器: Local (Cent OS)、AWS (EC2、CloudFront)、Azure (App Service)
-- CI/CD 流程: Jenkins、Gitlab CI 協助專案進行
-- 流量分析: GA、FB Pixel、短網址工具
+---
+
+## 對學習的熱情，讓我成為陪跑教練
+
+> 期待能找到喜歡、擅長、也能支撐生活的工作
+
+我相信學習是一段探索自己的旅程。過去我在【成大生涯教練計畫】中擔任學員，也在【夏日小學】與【永齡基金會】中擔任志工老師。這些經歷讓我發現：與人一起成長，是我最喜歡做的事之一。
+
+我可以提供以下服務，歡迎相關合作或邀約：
+
+- 🌱 前端技術講師（企業內訓／工作坊）
+- 🔍 面試陪跑與履歷健檢（軟體工程師為主）
+- 🎯 求職轉職諮詢（轉職策略／學習規劃）
+- 💡 一對一家教或教練（教學風格強調陪伴與理解）
+
+📫 Email: [linyencheng.tw@gmail.com](mailto:linyencheng.tw@gmail.com)  
+🔗 [Facebook](https://www.facebook.com/yencheng.tw)  
+🔗 [LinkedIn](https://www.linkedin.com/in/linyencheng/)
+
+### 曾受邀活動／講座
+
+- 🎤 [104 人力銀行邀請｜台積電資深軟體工程師講座](https://meet.104.com.tw/event/418d1f95-93dd-488d-814a-835ad2158a33)  
+  👉 解密台積電面試問題與工程師的工作日常
+- 🎙️ [Open Career Podcast｜面試前端讓你知己知彼的10個問題(上集)](https://open.spotify.com/episode/2ZoETkf4dL6P4ipXKmqcI2)
+  👉 軟體工程師不只是服務業也是良心事業? ft. 資深前端工程師 彥成
+- 🎙️ [Open Career Podcast｜面試前端讓你知己知彼的10個問題(下集)](https://open.spotify.com/episode/2VtekkwgFBcxTgg4alCIUE)
+  👉 加班式開發跟歷史遺跡你各位選哪一種? ft.資深前端工程師 彥成
+---
+
 
 ### 相關專案
 
@@ -43,21 +70,7 @@ Here are some ideas to get you started:
 - [對戰紀錄表][pokemon competition]：串接 Google Sheet (React)
 - [單頁筆記][vue js note]：Vue.js SPA (Vue)
 
-### 聯絡資訊
-
-- E-mail: linyencheng.tw@gmail.com
-- FB: https://www.facebook.com/yencheng.tw
-- Linkedin: https://www.linkedin.com/in/linyencheng/
-
 ---
-
-<div>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LinYenCheng&show_icons=true&locale=en&exclude_repo=linyencheng.github.io" alt="LinYenCheng" />
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LinYenCheng&show_icons=true&locale=en&layout=compact&exclude_repo=linyencheng.github.io"  alt="LinYenCheng" />
-  </p>
-</div>
 
 [google marketing]: https://goo.gl/wfyrkV
 [online classroom]: https://onlineclassroomdaily.liangshishu.com
